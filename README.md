@@ -1,3 +1,6 @@
+Read it to learn about sessions and added most of the source to bb-server.
+
+
 Sessions ![ Travis CI ](https://secure.travis-ci.org/dresende/node-sessions.png)
 ========
 
